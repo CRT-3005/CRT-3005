@@ -14,8 +14,7 @@ My journey in computer networking and as an IT Analyst has allowed me to explore
 |-----------------------------------------------|----------------------------|
 | SIEM Monitoring                               | <a href="https://m.youtube.com/watch?v=mWqYyl89QaY"> AD Project </a>|
 | Active Directory
-| 
-| Ethical Hacking                                 | <a href="https://www.udemy.com/course/learn-ethical-hacking-from-scratch/">Ethical Hacking</a>|
+| Ethical Hacking                               | <a href="https://www.udemy.com/course/learn-ethical-hacking-from-scratch/">Ethical Hacking</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

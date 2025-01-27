@@ -10,12 +10,11 @@ I am a current IT Analyst and Cyber Security enthusiast (mixed with networking)
 My journey in computer networking and as an IT Analyst has allowed me to explore more about cybersecurity which I am becoming obsessed with. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| AD Project w/ Splunk & Kali                   | <a href="https://google.com">Detection Lab</a>|
-| Ethical Hacking                               | <a href="https://google.com">Detection Lab</a>|
+| AD Project w/ Splunk & Kali                   | <a href="https://youtube/mWqYyl89QaY?si=GpujXWa8umzZaZ6h"> AD Project </a>|
+| Ethical Hacking                                 | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

@@ -14,7 +14,7 @@ My journey in computer networking and as an IT Analyst has allowed me to explore
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | AD Project w/ Splunk & Kali                   | <a href="https://m.youtube.com/watch?v=mWqYyl89QaY"> AD Project </a>|
-| Ethical Hacking                                 | <a href="https://google.com">Detection Lab</a>|
+| Ethical Hacking                                 | <a href="https://www.udemy.com/course/learn-ethical-hacking-from-scratch/">Ethical Hacking</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

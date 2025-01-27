@@ -12,7 +12,9 @@ My journey in computer networking and as an IT Analyst has allowed me to explore
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| AD Project w/ Splunk & Kali                   | <a href="https://m.youtube.com/watch?v=mWqYyl89QaY"> AD Project </a>|
+| SIEM Monitoring                               | <a href="https://m.youtube.com/watch?v=mWqYyl89QaY"> AD Project </a>|
+| Active Directory
+| 
 | Ethical Hacking                                 | <a href="https://www.udemy.com/course/learn-ethical-hacking-from-scratch/">Ethical Hacking</a>|
 
 ## Tools
@@ -35,7 +37,6 @@ My journey in computer networking and as an IT Analyst has allowed me to explore
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />

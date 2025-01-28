@@ -12,7 +12,7 @@ My journey in computer networking and as an IT Analyst has allowed me to explore
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Monitoring                               | <a href="https://m.youtube.com/watch?v=mWqYyl89QaY"> AD Project </a>|
+| SIEM Implementation & Log Analysis            | <a href="https://m.youtube.com/watch?v=mWqYyl89QaY"> AD Project </a>|
 | Active Directory
 | Ethical Hacking                               | <a href="https://www.udemy.com/course/learn-ethical-hacking-from-scratch/">Ethical Hacking</a>|
 

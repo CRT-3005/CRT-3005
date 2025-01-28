@@ -2,11 +2,11 @@
 # Hello, I'm Callum
 <a href="www.linkedin.com/in/callum-thorpe-63a502137"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a current IT Analyst and Cyber Security enthusiast (mixed with networking)
+I have a degree in Computer Networks and I currently work as an IT Analyst for Cytiva.
 
 ## Objective
 
-My journey in computer networking and as an IT Analyst has allowed me to explore more about cybersecurity which I am becoming obsessed with. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Computer Networks and as an IT Analyst has allowed me to explore more about cybersecurity which I am becoming obsessed with. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 

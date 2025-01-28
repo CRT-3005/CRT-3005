@@ -12,22 +12,27 @@ My journey in computer networking and as an IT Analyst has allowed me to explore
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation & Log Analysis            | <a href="https://m.youtube.com/watch?v=mWqYyl89QaY"> AD Project </a>|
-| Active Directory
+| Configuring Splunk & Sysmon                   | <a href="https://www.youtube.com/watch?v=uXRxoPKX65Q"> AD Project Part 3 </a>|
+| Install & Configure AD                        | <a href="https://www.youtube.com/watch?v=1XeDht_B-bA"> AD Project Part 4 </a>|
+| Brute Force Attack & ART                      | <a href="https://www.youtube.com/watch?v=orq-OPIdV9M"> AD Project Part 5 </a>|
 | Ethical Hacking                               | <a href="https://www.udemy.com/course/learn-ethical-hacking-from-scratch/">Ethical Hacking</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SolarWinds-FFA500?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Identity%20Services%20Engine-1679A7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-### Endpoint
+### Penetration Testing
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali-FFFFFF?&style=for-the-badge&logo=Kali&logoColor=black" />
+</div>
+
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Rapid7-FF8C00?&style=for-the-badge&logo=Rapid7&logoColor=white" />
 </div>
 
 ### SIEM
@@ -35,10 +40,10 @@ My journey in computer networking and as an IT Analyst has allowed me to explore
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects

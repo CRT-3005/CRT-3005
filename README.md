@@ -12,9 +12,9 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore m
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Configuring Splunk & Sysmon                   | <a href="https://www.youtube.com/watch?v=uXRxoPKX65Q"> AD Project Part 3 </a>|
-| Install & Configure AD                        | <a href="https://www.youtube.com/watch?v=1XeDht_B-bA"> AD Project Part 4 </a>|
-| Brute Force Attack & ART                      | <a href="https://www.youtube.com/watch?v=orq-OPIdV9M"> AD Project Part 5 </a>|
+| Configuring Splunk & Sysmon                   | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
+| Install & Configure AD                        | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
+| Brute Force Attack & ART                      | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
 | Ethical Hacking                               | <a href="https://www.udemy.com/course/learn-ethical-hacking-from-scratch/">Ethical Hacking</a>|
 
 ## Tools
@@ -47,5 +47,4 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore m
 </div>
 
 ## Projects
-- AD Project with Splunk Integration and Kali
-- Ethical Hacking via ZSecurity
+- <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>

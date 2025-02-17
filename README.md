@@ -15,7 +15,6 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore m
 | Configuring Splunk & Sysmon                   | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
 | Install & Configure AD                        | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
 | Brute Force Attack & ART                      | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
-| Ethical Hacking                               | <a href="https://www.udemy.com/course/learn-ethical-hacking-from-scratch/">Ethical Hacking</a>|
 
 ## Tools
 ### Network

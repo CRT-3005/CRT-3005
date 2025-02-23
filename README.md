@@ -1,6 +1,6 @@
 
 # Hello, I'm Callum
-<a href="www.linkedin.com/in/callum-thorpe-63a502137"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/callum-thorpe"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I have a degree in Computer Networks and I currently work as an IT Analyst for Cytiva.
 

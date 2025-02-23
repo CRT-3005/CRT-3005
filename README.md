@@ -15,6 +15,10 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore m
 | Configuring Splunk & Sysmon                   | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
 | Install & Configure AD                        | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
 | Brute Force Attack & ART                      | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
+| Playbook                                      | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|
+| Endpoint Detection                            | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|
+| Slack integration with Tines                  | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|
+| Automation                                    | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|
 
 ## Tools
 ### Network
@@ -39,6 +43,15 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore m
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### EDR
+<div>
+    <img src="https://img.shields.io/badge/-LimaCharlie-808080?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+</div>
+
+### Automation
+<div>
+    <img src="https://img.shields.io/badge/-Tines-800080?&style=for-the-badge&logo=Tines&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
@@ -47,3 +60,4 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore m
 
 ## Projects
 - <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>
+- <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>

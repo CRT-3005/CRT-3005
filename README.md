@@ -1,6 +1,6 @@
 
 # Hello, I'm Callum
-<a href="www.linkedin.com/in/callum-thorpe"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/callum-thorpe603919"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I have a degree in Computer Networks and I currently work as an IT Analyst for Cytiva.
 
@@ -51,11 +51,6 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore m
 ### Automation
 <div>
     <img src="https://img.shields.io/badge/-Tines-800080?&style=for-the-badge&logo=Tines&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects

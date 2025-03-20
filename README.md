@@ -53,6 +53,11 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore t
     <img src="https://img.shields.io/badge/-Tines-800080?&style=for-the-badge&logo=Tines&logoColor=white" />
 </div>
 
+## Certifications
+<div>
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
 ## Projects
 - <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>
 - <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>

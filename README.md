@@ -6,7 +6,7 @@ I have a degree in Computer Networks and I have recently obtained my CompTIA Sec
 
 ## Objective
 
-My journey in Computer Networks and as an IT Analyst has allowed me to explore the field of Cybersecurity of which I am now becoming obsessed with. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Computer Networks and as an IT Analyst has allowed me to explore the field of Cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or an Information Security Analyst.
 
 ## Skills
 

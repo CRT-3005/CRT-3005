@@ -12,9 +12,9 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Configuring Splunk & Sysmon                   | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
-| Install & Configure AD                        | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
-| Brute Force Attack & ART                      | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>|
+| Configuring Splunk & Sysmon                   | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD-Project </a>|
+| Install & Configure AD                        | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD-Project </a>|
+| Brute Force Attack & ART                      | <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD-Project </a>|
 | Playbook                                      | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|
 | Endpoint Detection                            | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|
 | Slack integration with Tines                  | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|

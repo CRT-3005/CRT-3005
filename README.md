@@ -1,5 +1,5 @@
 
-# Hello, I'm Callum
+# Callum Thorpe
 <a href="https://linkedin.com/in/callum-thorpe603919"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I have a degree in Computer Networks and I obtained my CompTIA Security+ certification in March this year. I currently work as an IT Analyst for Cytiva.

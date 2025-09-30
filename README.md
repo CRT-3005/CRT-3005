@@ -6,7 +6,7 @@ I have a degree in Computer Networks and I obtained my CompTIA Security+ certifi
 
 ## Objective
 
-My journey in Computer Networks and as an IT Analyst has allowed me to explore the field of Cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or an Information Security Analyst.
+I’m an IT Analyst with a background in Computer Networks and a Security+ certification, currently transitioning into cybersecurity. Through self-driven lab work and project documentation on GitHub, I’ve built hands-on experience in SIEM, SOAR, EDR, and DevSecOps workflows. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills in threat detection, incident response, and automation. I thrive in fast-paced environments, enjoy staying mentally engaged, and am motivated by the constant learning opportunities that cybersecurity offers.
 
 ## Skills
 

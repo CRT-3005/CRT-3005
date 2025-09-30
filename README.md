@@ -19,6 +19,11 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore t
 | Endpoint Detection                            | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|
 | Slack integration with Tines                  | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|
 | Automation                                    | <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>|
+| Static Application Security Testing (SAST)    | <a href="https://github.com/CRT-3005/DevSecOps"> DevSecOps </a>|
+| Dynamic Application Security Testing (DAST)   | <a href="https://github.com/CRT-3005/DevSecOps"> DevSecOps </a>|
+| Software Composition Analysis (SCA)           | <a href="https://github.com/CRT-3005/DevSecOps"> DevSecOps </a>|
+| GitLab workflows (branching, merging)         | <a href="https://github.com/CRT-3005/DevSecOps"> DevSecOps </a>|
+| Docker-based security tool deployment         | <a href="https://github.com/CRT-3005/DevSecOps"> DevSecOps </a>|
 
 ## Tools
 ### Network
@@ -61,3 +66,4 @@ My journey in Computer Networks and as an IT Analyst has allowed me to explore t
 ## Projects
 - <a href="https://github.com/CRT-3005/AD-Project/tree/main"> AD Project </a>
 - <a href="https://github.com/CRT-3005/SOAR-EDR"> SOAR-EDR </a>
+- <a href="https://github.com/CRT-3005/DevSecOps"> DevSecOps </a>
